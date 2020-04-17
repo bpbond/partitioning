@@ -1,2 +1,3 @@
 # partitioning
-How and why does Rs partitioning vary globally?
+
+This project will explore what factors drive the partitioning of soil respiration (“Rs”, the flow of CO2 from the soil surface to the atmosphere, and a major component of the global carbon cycle) worldwide. This Rs flux is driven by respiration from both microbes and plant roots, but how much each contributes is highly variable, and we don’t understand well the factors that control it. We use machine learning algorithms to explore what factors–such as climate, mycorrhizae, or land cover—drive Rs partitioning, working with several recently-released and exciting new global datasets. This will involve downloading, processing, and assembling a number of datasets; coding the analysis; and understanding the relevant carbon-cycle and earth system processes.
